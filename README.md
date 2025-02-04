@@ -63,7 +63,7 @@ Ich liebe es, kreative Ideen mit Technologie zu verbinden und Lösungen zu entwi
 
 Du möchtest mich besser kennenlernen oder über ein Projekt sprechen? Dann schreib mir gerne:  
 
-- 📧 E-Mail: [wallner.viktoria@gmx.net.com](wallner.viktoria@gmx.net)  
+- 📧 E-Mail: [wallner.viktoria@gmx.net](wallner.viktoria@gmx.net)  
 - 🌐 Portfolio: [https://portfolio-viktoria.vercel.app/](https://portfolio-viktoria.vercel.app/)
 
 --- 
