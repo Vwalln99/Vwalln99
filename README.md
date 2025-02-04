@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👩‍💻 Viktoria Michaela Wallner  
+# 👩‍💻 Viktoria Michaela Wallner  👋
 
 **_Frontend-Entwicklerin | Kreative Problemlöserin | Leidenschaft für Design und Technologie_**  
 
