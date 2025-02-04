@@ -45,7 +45,10 @@ Ich befinde mich aktuell in der Endphase meiner Ausbildung zur Applikationsentwi
 
 ---
 
-## 📂 Projekte    
+## 📂 Projekte  
+
+In progress:
+- Kleine Blog- und Socialmedia-Applikation mit React, TS und Supabase 
 
 Weitere Projekte folgen bald – stay tuned! 🚧  
 
