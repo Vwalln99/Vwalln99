@@ -17,20 +17,24 @@ Ich befinde mich aktuell in der Endphase meiner Ausbildung zur Applikationsentwi
 ## 🛠️ Meine Skills  
 
 ### **Frontend-Entwicklung**  
-- **Sprachen & Frameworks:**  
-  - HTML5
-  - CSS3
-  - JavaScript (ES6+)
-  - TypeScript  
-  - React.js
-  - Material UI
-  - Kotlin (XML)
-  - Responsive Design & UI/UX-Optimierung  
-- **Tools & Technologien:**  
-  - Figma (Prototyping & UI-Design)  
-  - Procreate (Grafikdesign & Illustration)  
-  - Canva (Design von Social-Media-Inhalten & Präsentationen)
-  - REST-APIs
+Sprachen & Frameworks
+
+    HTML5 HTML5
+    CSS3 CSS3
+    JavaScript JavaScript (ES6+)
+    TypeScript TypeScript
+    React.js React.js
+    Material UI Material UI
+    Kotlin Kotlin (XML)
+    🖌️ Responsive Design & UI/UX-Optimierung
+
+Tools & Technologien
+
+    Figma Figma (Prototyping & UI-Design)
+    🎨 Procreate (Grafikdesign & Illustration)
+    🖼️ Canva (Design von Social-Media-Inhalten & Präsentationen)
+    🔗 REST-APIs
+
 
 ### **Backend-Grundlagen**  
 - PHP  
